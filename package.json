@@ -1,0 +1,22 @@
+{
+  "name": "node_mcrypt",
+  "version": "1.0.0",
+  "description": "NodeJS replicate of mcrypt of PHP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ongkristopher/node-mcrypt.git"
+  },
+  "author": "Kristopher Ong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ongkristopher/node-mcrypt/issues"
+  },
+  "homepage": "https://github.com/ongkristopher/node-mcrypt#readme",
+  "dependencies": {
+    "mcrypt": "^0.1.15"
+  }
+}
